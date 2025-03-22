@@ -1,7 +1,11 @@
-import Stars from './components/Stars/Stars';
+import Converter from './components/Converter/Converter';
 
-const App = () => {
-  return <Stars count={5} />;
-};
+function App() {
+  return (
+    <div className="container">
+      <Converter />
+    </div>
+  );
+}
 
 export default App;
