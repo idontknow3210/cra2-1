@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "img": "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/1.jpg",
+    "alt": "card 1",
+    "title": "Card title 1",
+    "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "2",
+    "img": "",
+    "alt": "card 2",
+    "title": "Card title 2",
+    "text": "This card contains an empty img and there is nothing wrong with it's alt.",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "3",
+    "img": "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/33.jpg",
+    "alt": "card not found",
+    "title": "Card title 3",
+    "text": "This is a card with a link, that does not exist. You won't be able to open it.",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "4",
+    "img": "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/4.jpg",
+    "alt": "card 4",
+    "title": "Card title 4",
+    "text": "Very little text",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "5",
+    "img": "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/5.jpg",
+    "alt": "card 5",
+    "title": "Card title 5",
+    "text": "Here is a lot of text content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab obcaecati eum aspernatur deleniti alias vel quia ex velit maiores hic. Dicta modi cumque at temporibus, sunt distinctio eaque esse odit.",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "6",
+    "title": "Card title 6",
+    "text": "This card does not contain any image in json file at all! As well as alt.",
+    "link": "Go somewhere"
+  },
+  {
+    "id": "7",
+    "title": "Card title 7",
+    "text": "This card does not contain any image in json file at all! As well as alt.",
+    "link": "Go somewhere"
+  }
+]

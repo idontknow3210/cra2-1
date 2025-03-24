@@ -1,0 +1,38 @@
+.card {
+  width: 100%;
+
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+
+.card__img {
+  display: block;
+  width: 100%;
+  max-height: 228px;
+  object-fit: cover;
+
+  border-radius: 10px 10px 0 0;
+
+  background-color: #c5c8c8;
+}
+
+.card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  flex-grow: 1;
+
+  padding: 20px;
+}
+
+.card__btn {
+  place-self: flex-start;
+
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  color: #ffffff;
+
+  background-color: rgb(0, 115, 255);
+}

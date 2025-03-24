@@ -5,16 +5,18 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-  background-color: #d3d3d3;
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#root {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  align-items: end;
 
   max-width: 1200px;
-  height: 100vh;
   margin: 0 auto;
+  padding: 20px;
 }
